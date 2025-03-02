@@ -12,28 +12,12 @@
 <p>This project compares various regression techniques to predict the likelihood of forest fires in Algeria using meteorological and environmental data from the UCI Machine Learning Repository.</p>
 
 <h2>🛠️ Tech Stack</h2>
-<table>
-    <tr>
-        <th>Technology</th>
-        <th>Badge</th>
-    </tr>
-    <tr>
-        <td>Python</td>
-        <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></td>
-    </tr>
-    <tr>
-        <td>Scikit-Learn</td>
-        <td><img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?logo=scikitlearn&logoColor=white"></td>
-    </tr>
-    <tr>
-        <td>NumPy</td>
-        <td><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"></td>
-    </tr>
-    <tr>
-        <td>Matplotlib</td>
-        <td><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"></td>
-    </tr>
-</table>
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?logo=scikitlearn&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
+</div> can you create table for tech stack
 
 <h2>📊 Dataset Description</h2>
 <ul>
