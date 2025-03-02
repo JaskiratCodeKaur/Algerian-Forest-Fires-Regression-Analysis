@@ -85,9 +85,8 @@
 </table>
 
 <h2>🚀 Quick Start</h2>
-<pre><code>git clone https://github.com/your-username/algerian-forest-fires-regression.git
+<pre><code>git clone https://github.com/JaskiratCodeKaur/RegressionAnalysis.git
 cd algerian-forest-fires-regression
-pip install -r requirements.txt
 python main.py</code></pre>
 
 <h2>📚 References</h2>
