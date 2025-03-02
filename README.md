@@ -13,13 +13,38 @@
 <p>This project compares various regression techniques to predict the likelihood of forest fires in Algeria using meteorological and environmental data from the UCI Machine Learning Repository.</p>
 
 <h2>🛠️ Tech Stack</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?logo=scikitlearn&logoColor=white">
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
-</div>
+<table>
+    <tr>
+        <th>Technology</th>
+        <th>Description</th>
+        <th>Badge</th>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td>Core programming language for data analysis and modeling</td>
+        <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td>Scikit-Learn</td>
+        <td>Machine learning library for regression model implementation</td>
+        <td><img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?logo=scikitlearn&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td>Pandas</td>
+        <td>Data manipulation and preprocessing toolkit</td>
+        <td><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td>NumPy</td>
+        <td>Numerical computing and array processing</td>
+        <td><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"></td>
+    </tr>
+    <tr>
+        <td>Matplotlib</td>
+        <td>Data visualization and results plotting</td>
+        <td><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"></td>
+    </tr>
+</table>
 
 <h2>📊 Dataset Description</h2>
 <ul>
