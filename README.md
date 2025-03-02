@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?logo=scikitlearn&logoColor=white">
     <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
-</div> can you create table for tech stack
+</div>
 
 <h2>📊 Dataset Description</h2>
 <ul>
